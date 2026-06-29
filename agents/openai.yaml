@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book to Feishu Visual Notes"
+  short_description: "Turn unread books into Feishu visual notes"
+  default_prompt: "Use $book-to-feishu-visual-notes to turn this book into a Feishu document with core viewpoints and visual annotation boards."
