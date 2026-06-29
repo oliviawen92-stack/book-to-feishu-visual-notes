@@ -35,7 +35,7 @@ Install this repository as a Codex skill from the repository root:
 
 ```bash
 python3 install-skill-from-github.py \
-  --repo YOUR_GITHUB_USER/book-to-feishu-visual-notes \
+  --repo oliviawen92-stack/book-to-feishu-visual-notes \
   --path . \
   --name book-to-feishu-visual-notes
 ```
