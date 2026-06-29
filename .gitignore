@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+out/
+tmp/
+*.png
+*.pdf
+*.epub
+*.mobi
+*.azw3
+*.docx
+*.xlsx
+*.pptx
